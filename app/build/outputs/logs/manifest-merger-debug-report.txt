@@ -2,7 +2,7 @@
 manifest
 ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:3:5-40
+		ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -37,7 +37,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mu
 		ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.mu.example.tensorflow.MainActivity
+activity#com.mu.example.myapplicationtensorflow.MainActivity
 ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
 		ADDED from D:\MumuGit\TensorFlow\app\src\main\AndroidManifest.xml:12:19-47
